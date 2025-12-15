@@ -13,5 +13,3 @@ sales, profit, quantity, and customer segments.
 - Monthly sales & profit trends
 - Segment-wise performance
 
-## Dashboard Preview
-(Add screenshot here)
